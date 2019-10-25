@@ -1,6 +1,6 @@
 ---
-name: Venus Task Template
-about: For tasks related to the Venus project
+name: Request a feature
+about: For suggesting a change to the product
 title: ''
 labels: ''
 assignees: ''
