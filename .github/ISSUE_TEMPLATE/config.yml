@@ -3,3 +3,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Loop back
     url: https://www.github.com/labrose/insight-mars
+    about: Go back to the main page
