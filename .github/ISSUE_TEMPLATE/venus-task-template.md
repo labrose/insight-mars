@@ -2,7 +2,7 @@
 name: Request a feature
 about: For suggesting a change to the product
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
